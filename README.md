@@ -6,8 +6,7 @@ A fully refactored and extended JavaFX implementation of the classic 2048 slidin
 
 ## GitHub Repository
 
-> **Add your fork URL here before submission.**
-> e.g. `https://github.com/YOUR_USERNAME/CW_Resit`
+>https://github.com/edwindows11/CW_Resit.git
 
 ---
 
