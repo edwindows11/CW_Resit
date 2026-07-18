@@ -1,4 +1,5 @@
 package com.example.demo;
 
-public class Controller {
-}
+/** @deprecated Was empty and unused. Replaced by {@link com.example.demo.controller.MenuController}. */
+@Deprecated
+public class Controller { }
